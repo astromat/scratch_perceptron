@@ -5,6 +5,7 @@ import random as rd
 from sklearn.datasets import make_circles
 import time
 
+# for the 2D case
 #Crear data set
 n = 500  #nro de datos
 p=2  # numero de caracteristicas de los datos
